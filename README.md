@@ -26,7 +26,7 @@ My work focuses on improving **operational efficiency**, **data management**, an
 ### 🌍 Let's Connect
 
 📫 [LinkedIn](https://linkedin.com/in/ozer-kavi)  
-💻 [GitHub Projects](https://github.com/ozer-kavi)
+💻 [GitHub Projects](https://github.com/ozerkavi-dev)
 
 ---
 
